@@ -1,0 +1,7 @@
+An end-to-end machine learning pipeline using a perceptron model
+Particulas:
+1. Load dataset using Pandas
+2. Split the dataset into training and test sets using Scikit-Learn
+3. Build an end-to-end machine learning pipeline, including a perceptron model
+4. Optimize the pipeline by validating the design decisions
+5. Test the best pipeline on the test set and report various evaluation metrics
