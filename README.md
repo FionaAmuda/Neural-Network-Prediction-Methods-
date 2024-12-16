@@ -1,4 +1,4 @@
-# Neural-Network-Prediction-Methods-
+# Neuro-Network-Prediction-Methods-
 Machine learning models used in Neural Networks:
 This folder contains different Artificial Neural Networks ML Model
 1. Perceptron
